@@ -1,0 +1,14 @@
+{
+    "images_data_file": "./images_data.json",
+    "public_path": "./public",
+    "templates_path": "./templates",
+    "images_path": "./public/images/photos",
+    "thumbnails_path": "./public/images/thumbnails",
+    "thumbnail_height": 160,
+    "title": "StrawberryNida   Strawberry: Art, Jewlery, Shirts, Tapestries, Prints",
+    "description": "Announcement ︵‿ ⊹ ︵‿୨ ♡ ୧‿︵ ⊹ ‿︵ ︵‿ ⊹ ︵‿୨ ♡ ୧‿︵ ⊹ ‿︵︵‿ ⊹ ︵‿୨ ♡ ୧‿︵ ⊹ ‿︵︵‿ ⊹ ︵‿୨ ♡ ୧‿︵ ⊹ ‿︵‿ ⊹ ︵‿୨ ♡ ୧‿︵ ⊹ Hello! I'm Nida, the proud owner of StrawberryNida, where I lovingly handcraft every item in my shop. From the delightful strawberry earrings & necklace cards to the charming stickers, every aspect, including the packaging, is personally hand-stamped.",
+    "url": "For swift updates, exclusive sale codes, and a sneak peek at my latest creations, be sure to follow me on Instagram @strawberrynida. To explore my online presence, visit my website at strawberrynida.carrd.co. Let's embark on a whimsical journey together! 🍓 ︵‿ ⊹ ︵‿୨ ♡ ୧‿︵ ⊹ ‿︵ ︵‿ ⊹ ︵‿୨ ♡ ୧‿︵ ⊹ ‿︵︵‿ ⊹ ︵‿୨ ♡ ୧‿︵ ⊹ ‿︵︵‿ ⊹ ︵‿୨ ♡ ୧‿︵ ⊹ ‿︵‿ ⊹ ︵‿୨ ♡ ୧‿︵ ⊹ ",
+    "background_photo": "/Users/marissagonzales/Desktop/StrawberryNidaPhotos/StrawberryNidaBackgroundPhoto.avif",
+    "background_photo_offset": 30,
+    "disable_captions": false
+}
